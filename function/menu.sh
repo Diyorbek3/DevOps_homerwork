@@ -27,6 +27,4 @@ menu() {
         echo "Noto‘g‘ri tanlov. Iltimos, 1, 2 yoki 3 ni tanlang."
         ;;
     esac
-  done  
-}
 menu
