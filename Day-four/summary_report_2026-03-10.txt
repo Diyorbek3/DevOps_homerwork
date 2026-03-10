@@ -1,0 +1,14 @@
+===============================================
+DAILY LOG ANALYSIS REPORT
+===============================================
+Sana: Tue Mar 10 12:27:16 PM UTC 2026
+Tahlil qilingan fayl: /var/log/nginx/access.log
+Jami qayta ishlangan qatorlar: 1234
+Jami xatolar soni (ERROR/Failed): 1
+-----------------------------------------------
+TOP 5 ENG KO'P UCHRAGAN XATOLAR:
+      1 
+-----------------------------------------------
+CRITICAL HODISALAR (Qator raqami bilan):
+Kritik hodisalar topilmadi.
+===============================================
